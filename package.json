@@ -1,0 +1,14 @@
+{
+  "name": "covid19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gr-rolling-average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Kohler",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
